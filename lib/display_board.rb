@@ -2,3 +2,9 @@
 def display_board
   row = "   |   |   "
   separation = "-----------"
+  puts row
+  puts separation
+  puts row
+  puts separation
+  puts row
+end
